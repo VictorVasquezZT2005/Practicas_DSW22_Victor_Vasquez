@@ -42,3 +42,36 @@ Hola, soy **Victor Vasquez**, desarrollador Android enfocado en Kotlin. Me encan
 1. Clona este repositorio:  
 ```bash
 git clone https://github.com/VictorVasquezZT2005/Practicas_DSW22_Victor_Vasquez.git
+````
+
+2. Abre el proyecto en **Android Studio**.
+3. Sincroniza las dependencias con **Gradle**.
+4. Conecta un dispositivo Android o usa un **emulador**.
+5. Ejecuta la app con **Run**.
+
+---
+
+## 🌟 Buenas prácticas que aplico
+
+* Código **limpio y comentado**.
+* Arquitectura **MVVM/MVC** según el proyecto.
+* Optimización de **rendimiento y consumo de memoria**.
+* Interfaces **intuitivas y responsive**.
+
+---
+
+## 📬 Contacto
+
+* **Correo:** [victor.vasquez@example.com](mailto:victor.vasquez@example.com)
+* **LinkedIn:** [Victor Vasquez](https://www.linkedin.com/in/victorvasquez)
+* **GitHub:** [github.com/victorvasquez](https://github.com/victorvasquez)
+
+---
+
+## 📜 Licencia
+
+MIT License – Puedes usar y modificar mis proyectos, solo recuerda dar crédito.
+
+---
+
+✨ Gracias por visitar mi repositorio. Cada app es un paso más en mi camino como desarrollador Android en Kotlin. 🚀
