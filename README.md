@@ -41,4 +41,4 @@ Hola, soy **Victor Vasquez**, desarrollador Android enfocado en Kotlin. Me encan
 
 1. Clona este repositorio:  
 ```bash
-git clone https://github.com/tu-usuario/repositorio.git
+git clone https://github.com/VictorVasquezZT2005/Practicas_DSW22_Victor_Vasquez.git
